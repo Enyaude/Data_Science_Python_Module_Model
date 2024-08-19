@@ -1,4 +1,4 @@
-#                              Data Analysis Module
+#                              Data Science Module
 ## Overview
 This repository contains the code and modules created for a data analysis project aimed at analyzing agricultural data from Maji Ndogo farm. The project involves various tasks like creating python scripts or module such as data ingestion, data cleaning, hypothesis testing, visualization, and statistical analysis module and automating the farm data analysis process.
 
@@ -26,7 +26,7 @@ Conduct statistical analysis and hypothesis testing using the functions provided
 Visualize the data using various plotting libraries such as Matplotlib and Seaborn.
 
 Contributors
-Enyaude Samuel - Data Science
+Engr. Samuel Enyaude - Data Scientist
 ALX Nigeria - Community
 
 This project is licensed under the MIT License - see the LICENSE file for details.
