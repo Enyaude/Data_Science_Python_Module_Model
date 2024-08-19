@@ -1,0 +1,13 @@
+README.md
+setup.py
+Data_Science_Python_Module_Model/__init__.py
+Data_Science_Python_Module_Model/data_ingestion.py
+Data_Science_Python_Module_Model/field_data_processor.py
+Data_Science_Python_Module_Model/validate_data.py
+Data_Science_Python_Module_Model/weather_data_processor.py
+Data_Science_Python_Module_Model.egg-info/PKG-INFO
+Data_Science_Python_Module_Model.egg-info/SOURCES.txt
+Data_Science_Python_Module_Model.egg-info/dependency_links.txt
+Data_Science_Python_Module_Model.egg-info/requires.txt
+Data_Science_Python_Module_Model.egg-info/top_level.txt
+test/test.py

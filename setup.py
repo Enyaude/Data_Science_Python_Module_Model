@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Python_Module_for_Data_Science',
-    version='0.2',
+    name='Data_Science_Python_Module_Model',
+    version='0.1',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
-    description='EDSA: Python module for data science package',
+    description='EDSA: Data Science Python Module Package',
     long_description=open('README.md').read(),
     install_requires=['numpy', 'pandas', 'scipy'],
-    url='https://github.com/Enyaude/Python_Module_for_Data_Science.git',
+    url='https://github.com/Enyaude/Data_Science_Python_Module_Model.git',
     author='<Enyaude>',
     author_email='<enyaudesamuel@hotmail.com>'
     )
