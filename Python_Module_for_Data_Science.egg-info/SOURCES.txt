@@ -5,9 +5,9 @@ Python_Module_for_Data_Analysis/data_ingestion.py
 Python_Module_for_Data_Analysis/field_data_processor.py
 Python_Module_for_Data_Analysis/validate_data.py
 Python_Module_for_Data_Analysis/weather_data_processor.py
-Python_Module_for_Data_Analysis.egg-info/PKG-INFO
-Python_Module_for_Data_Analysis.egg-info/SOURCES.txt
-Python_Module_for_Data_Analysis.egg-info/dependency_links.txt
-Python_Module_for_Data_Analysis.egg-info/requires.txt
-Python_Module_for_Data_Analysis.egg-info/top_level.txt
+Python_Module_for_Data_Science.egg-info/PKG-INFO
+Python_Module_for_Data_Science.egg-info/SOURCES.txt
+Python_Module_for_Data_Science.egg-info/dependency_links.txt
+Python_Module_for_Data_Science.egg-info/requires.txt
+Python_Module_for_Data_Science.egg-info/top_level.txt
 test/test.py
