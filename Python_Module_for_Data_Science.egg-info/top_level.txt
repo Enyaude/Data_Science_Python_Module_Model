@@ -1,1 +1,1 @@
-Python_Module_for_Data_Analysis
+Python_Module_for_Data_Science

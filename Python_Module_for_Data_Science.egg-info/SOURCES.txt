@@ -1,10 +1,10 @@
 README.md
 setup.py
-Python_Module_for_Data_Analysis/__init__.py
-Python_Module_for_Data_Analysis/data_ingestion.py
-Python_Module_for_Data_Analysis/field_data_processor.py
-Python_Module_for_Data_Analysis/validate_data.py
-Python_Module_for_Data_Analysis/weather_data_processor.py
+Python_Module_for_Data_Science/__init__.py
+Python_Module_for_Data_Science/data_ingestion.py
+Python_Module_for_Data_Science/field_data_processor.py
+Python_Module_for_Data_Science/validate_data.py
+Python_Module_for_Data_Science/weather_data_processor.py
 Python_Module_for_Data_Science.egg-info/PKG-INFO
 Python_Module_for_Data_Science.egg-info/SOURCES.txt
 Python_Module_for_Data_Science.egg-info/dependency_links.txt

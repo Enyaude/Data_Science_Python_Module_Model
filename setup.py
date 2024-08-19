@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Python_Module_for_Data_Science',
-    version='0.1',
+    version='0.2',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='EDSA: Python module for data science package',
