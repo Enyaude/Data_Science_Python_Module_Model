@@ -6,7 +6,6 @@ Home-page: https://github.com/Enyaude/Python_Module_for_Data_Analysis.git
 Author: <Enyaude>
 Author-email: <enyaudesamuel@hotmail.com>
 License: MIT
-Platform: UNKNOWN
 
 #                              Data Analysis Module
 ## Overview
@@ -40,4 +39,3 @@ Enyaude Samuel - Data Science
 ALX Nigeria - Community
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
